@@ -24,7 +24,7 @@ Spectrum Equalizer is a compact, user-friendly tool for dividing color spectrums
    - Right-click context menu
    - Double-click for quick HEX copy  
 
-✔ Full palette export - "Copy all" button for complete color transfer  
+✔ Full palette export — "Copy all" button for complete color transfer  
 
 ## Target Users
 🎨 Designers — Creating harmonious color schemes  
