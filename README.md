@@ -44,5 +44,3 @@ Spectrum Equalizer is a compact, user-friendly tool for dividing color spectrums
 3. Choose start/end colors  
 4. Enter desired divisions count  
 5. Click "Generate" or press Enter  
-
-![Application Screenshot](screenshot.png) *Example interface*
