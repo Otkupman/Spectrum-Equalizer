@@ -5,9 +5,9 @@ Spectrum Equalizer is a compact, user-friendly tool for dividing color spectrums
 ![Spectral Imaging](https://github.com/Otkupman/Spectrum-Equalizer/blob/main/Spectral%20Imaging.png)
 
 ## Features
-✔ Flexible spectrum division - Any number of colors (from 2 to ∞)  
-✔ Gradient visualization - Intuitive spectrum display  
-✔ Detailed color codes - Precise values in:
+✔ Flexible spectrum division — Any number of colors (from 2 to ∞)  
+✔ Gradient visualization — Intuitive spectrum display  
+✔ Detailed color codes — Precise values in:
    - RGB (Red, Green, Blue)
    - HEX (Hexadecimal)
    - HSV/HSB (Hue, Saturation, Value/Brightness)
@@ -27,11 +27,11 @@ Spectrum Equalizer is a compact, user-friendly tool for dividing color spectrums
 ✔ Full palette export - "Copy all" button for complete color transfer  
 
 ## Target Users
-🎨 Designers - Creating harmonious color schemes  
-👩‍🎨 Digital Artists - Studying smooth transitions for painting  
-👨‍💻 Web Developers - Quick HEX generation for CSS  
-📊 Data Analysts - Visualizing data with color scales  
-🌈 Colorimetrists - Calculating color coordinates, quantization evaluation, pseudocolor creation  
+🎨 Designers — Creating harmonious color schemes  
+👩‍🎨 Digital Artists — Studying smooth transitions for painting  
+👨‍💻 Web Developers — Quick HEX generation for CSS  
+📊 Data Analysts — Visualizing data with color scales  
+🌈 Colorimetrists — Calculating color coordinates, quantization evaluation, pseudocolor creation  
 
 ## Technical Specifications
 🔹 Python 3 implementation using Tkinter  
